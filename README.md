@@ -64,9 +64,9 @@
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vophamthanhan&show_icons=true&theme=tokyonight" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vophamthanhan&theme=tokyonight" />
 </p>
 
 ---
