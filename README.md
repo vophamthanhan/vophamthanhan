@@ -13,7 +13,7 @@
 <p align="center">
 💡 Enthusiastic and fast-learning data enthusiast based in Vietnam<br>
 🛠️ Experienced with Python bots, REST APIs, and automation tools<br>
-🌱 Currently: Intern Data Engineer @ TravelThru<br>
+🌱 Currently: Open to Work: Data Engineer | AI Engineer | Python Developer <br>
 📈 Previously led digital marketing projects and social media strategies<br>
 </p>
 
