@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hi%20👋%20I'm%20Vo%20Pham%20Thanh%20An&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Engineer%20Intern-6C63FF?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineer%20-6C63FF?style=for-the-badge&logo=data&logoColor=white" />
   <img src="https://img.shields.io/badge/Python%20Automation-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Integration-success?style=for-the-badge" />
 </p>
