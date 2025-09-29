@@ -90,7 +90,7 @@
 <p align="center">
   <a href="mailto:vophaman79@gmail.com"><img src="https://img.shields.io/badge/Email-vophaman79@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://thanhanvo.io.vn"><img src="https://img.shields.io/badge/Portfolio-thanhanvo.io.vn-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vpta102"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=footer" />
