@@ -35,13 +35,13 @@
 <h3 align="center">💼 Experience</h3>
 
 <p align="center">
+<b>Digital Marketing Manager – Moc Seafood</b> <br>
+🕐 Jan 2024 – Jul 2024<br>1
+📣 Managed paid ads & KOLs | Optimized budgets<br><br>
+  
 <b>Data Engineer Intern – TravelThru</b> <br>
 🕐 Mar 2023 – Jun 2023<br>
 🔧 Python automation bots | Microsoft Power Automate | MongoDB<br><br>
-
-<b>Digital Marketing Manager – Moc Seafood</b> <br>
-🕐 Jan 2024 – Jul 2024<br>
-📣 Managed paid ads & KOLs | Optimized budgets<br><br>
 
 <b>Leader – Milano Digital</b><br>
 🕐 Feb 2022 – Feb 2023<br>
@@ -53,7 +53,7 @@
 <h3 align="center">🚀 Featured Project</h3>
 
 <p align="center">
-<b>Zalo Customer Reminder Automation</b><br>
+<b>vZalo Engagement & Lifecycle Automation System</b><br>
 📬 Synced GemLogin data to Notion and sent automated Zalo reminders<br>
 🛠 Tools: n8n, Lark, Notion, Zalo API<br>
 ✅ Saved 10+ hours/week & avoided account bans<br>
