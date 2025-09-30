@@ -14,7 +14,7 @@
 💡 Enthusiastic and fast-learning data enthusiast based in Vietnam<br>
 🛠️ Experienced with Python bots, REST APIs, and automation tools<br>
 🌱 Currently: Open to Work: Data Engineer | AI Engineer | Python Developer <br>
-📈 Previously led digital marketing projects and social media strategies<br>
+📈 Aim to apply my skills to meaningful data projects<br>
 </p>
 
 ---
@@ -35,18 +35,13 @@
 <h3 align="center">💼 Experience</h3>
 
 <p align="center">
-<b>Digital Marketing Manager – Moc Seafood</b> <br>
+<b>Marketing Automation Specialist – Moc Seafood</b> <br>
 🕐 Jan 2024 – Jul 2024<br>1
-📣 Managed paid ads & KOLs | Optimized budgets<br><br>
+📣 Built Telegram bots | Applied sentiment analysis<br><br>
   
 <b>Data Engineer Intern – TravelThru</b> <br>
 🕐 Mar 2023 – Jun 2023<br>
 🔧 Python automation bots | Microsoft Power Automate | MongoDB<br><br>
-
-<b>Leader – Milano Digital</b><br>
-🕐 Feb 2022 – Feb 2023<br>
-📌 10,000+ Facebook accounts | Campaign leadership
-</p>
 
 ---
 
@@ -54,7 +49,7 @@
 
 <p align="center">
 <b>vZalo Engagement & Lifecycle Automation System</b><br>
-📬 Synced GemLogin data to Notion and sent automated Zalo reminders<br>
+📬 Synced GpmLogin data to Notion and sent automated Zalo reminders<br>
 🛠 Tools: n8n, Lark, Notion, Zalo API<br>
 ✅ Saved 10+ hours/week & avoided account bans<br>
 </p>
